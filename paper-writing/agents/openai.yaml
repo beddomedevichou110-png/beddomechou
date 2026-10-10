@@ -1,0 +1,6 @@
+interface:
+  display_name: "paper-writing"
+  short_description: "整合开题与论文写作经验，统一文献、方法、变量及答辩材料"
+  default_prompt: "请使用 $paper-writing，读取最新版材料和当前研究方案，按本项目要求核对文献、方法及全文一致性，完成指定修改。"
+policy:
+  allow_implicit_invocation: true
